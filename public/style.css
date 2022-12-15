@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.form-group {
+    width: 350px;
+}
+
+input,
+select {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0px;
+    height: 20px;
+}
+
+.bmi-frame {
+    padding: 50px
+}
+
+button {
+    font-weight: bolder;
+    padding: 20px;
+    outline: none;
+    border-radius: 10px;
+    background-color: crimson;
+    border: none;
+}
